@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewCell.h
 //  CustumTableView
 //
 //  Created by LuyenBG on 1/22/18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController<UITableViewDelegate,UITableViewDataSource>
-
+@interface TableViewCell : UITableViewCell
 
 @end
-
